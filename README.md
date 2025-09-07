@@ -56,9 +56,9 @@ Testing setup with Arduino/ATTiny connected to H-Bridge and motor.
 ## Pinouts
 
 ### ATTiny (Single Channel ESC)
-- **OUT1** → Motor terminal 1  
-- **OUT2** → Motor terminal 2  
-- **IN** → PWM signal input (from RC receiver)  
+- **OUT1 - 0** → Motor terminal 1  
+- **OUT2 - 1** → Motor terminal 2  
+- **IN   - 2** → PWM signal input (from RC receiver)  
 - **GND** → Ground  
 - **VCC** → Motor power supply  
 
