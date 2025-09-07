@@ -73,17 +73,6 @@ Testing setup with Arduino/ATTiny connected to H-Bridge and motor.
 
 ---
 
-## Firmware
-
-### ATTiny – Single Channel
-File: `attiny.ino`  
-Reads **one PWM signal** and controls a single motor.  
-
-### Arduino Nano – Dual Channel
-File: `atmega.ino`  
-Reads **two PWM signals** and controls two motors independently.  
-
----
 
 ## How it Works
 1. RC receiver sends **PWM input (1000–2000 µs)**  
