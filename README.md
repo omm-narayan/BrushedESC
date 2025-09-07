@@ -1,6 +1,6 @@
 # BrushedESC Project – Custom H-Bridge ESC
 
-## 🔧 Why an H-Bridge?
+## Why an H-Bridge?
 A brushed DC motor requires **bidirectional control** (forward & reverse).  
 Directly powering the motor only spins it in one direction.  
 The **H-Bridge** circuit solves this by allowing current to flow in **both directions**, enabling:  
