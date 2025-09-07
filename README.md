@@ -41,7 +41,7 @@ UNIDIRECTIONAL BRUSHED MOTOR DRIVER.
 ---
 
 ## Breadboard Implementation
-Practical build of the H-Bridge with MOSFETs, resistors, and diodes.  
+PRACTICAL BUILD OF THE H-BRIDGE WITH MOSFETS, RESISTORS, AND DIODES.  
 
 ![H-Bridge Breadboard](hbridge_breadboard.jpg)  
 ![H-Bridge Breadboard 2](hbridge_breadboard2.jpg)
