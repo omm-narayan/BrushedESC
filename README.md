@@ -18,7 +18,7 @@ The project demonstrates motor control, PWM-to-analog conversion, and bidirectio
 *ATTiny microcontroller reading PWM input and outputting control signals to the H-bridge.*
 
 ### 3. H-Bridge MOSFET Setup
-![H-Bridge MOSFET on Breadboard](hbridge_breadboard.jpg)  
+![H-Bridge MOSFET on Breadboard](hbridge_breadboard.jpeg)  
 *H-bridge on breadboard using 2 N-channel + 2 P-channel MOSFETs for motor control.*
 
 ---
