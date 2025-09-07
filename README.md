@@ -39,14 +39,14 @@ Bidirectional H-Bridge for brushed DC motor.
 
 ---
 
-## 🔩 Breadboard Implementation
+## Breadboard Implementation
 Practical build of the H-Bridge with MOSFETs, resistors, and diodes.  
 
 ![H-Bridge Breadboard](hbridge_breadboard.jpg)
 
 ---
 
-## ⚙️ Brushed Motor + ESC Setup
+## Brushed Motor + ESC Setup
 Testing setup with Arduino/ATTiny connected to H-Bridge and motor.  
 
 ![Brushed Motor ESC Setup](brushed_motor_esc.jpg)
