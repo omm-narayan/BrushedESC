@@ -72,7 +72,7 @@ Testing setup with Arduino/ATTiny connected to H-Bridge and motor.
 
 ---
 
-## 💻 Firmware
+## Firmware
 
 ### ATTiny – Single Channel
 File: `attiny.ino`  
@@ -84,7 +84,7 @@ Reads **two PWM signals** and controls two motors independently.
 
 ---
 
-## 📖 How it Works
+## How it Works
 1. RC receiver sends **PWM input (1000–2000 µs)**  
 2. ATTiny/Arduino measures the pulse width using **Pin Change Interrupts**  
 3. Pulse width is compared to the **middle point (1500 µs)**  
@@ -94,21 +94,5 @@ Reads **two PWM signals** and controls two motors independently.
 
 ---
 
-## 📝 Notes
-- Breadboard version is for testing → final design should move to PCB  
-- Use **low Rds(on) MOSFETs** for better efficiency  
-- For higher current, consider **driver ICs** like DRV8873 or BTS7960  
-
----
-
-## 📂 Repository Files
-- `attiny.ino` → ATTiny single channel ESC code  
-- `atmega.ino` → Arduino Nano dual channel ESC code  
-- `circuit_schematic.jpg` → H-Bridge schematic  
-- `hbridge_breadboard.jpg` → Breadboard H-Bridge  
-- `brushed_motor_esc.jpg` → Motor + ESC setup  
-
----
-
-## 📜 License
+## License
 MIT License – Free to use and modify  
