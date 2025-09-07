@@ -33,9 +33,9 @@ Instead of using a motor driver IC (like L293D or BTS7960), we built a **discret
 ---
 
 ##  Circuit Schematic
-Bidirectional H-Bridge for brushed DC motor.  
+BIDIRECTIONAL H-BRIDGE BRUSHED MOTOR DRIVER.
 ![Circuit Schematic](circuit_schematic.jpg)
-
+UNIDIRECTIONAL BRUSHED MOTOR DRIVER.
 ![Circuit Schematic 2](circuit_schematic2.jpg)
 
 ---
