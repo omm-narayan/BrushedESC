@@ -20,7 +20,7 @@ Instead of using a motor driver IC (like L293D or BTS7960), we built a **discret
 - **2× NPN Transistor** → BC547 (for gate driving of P-MOS)  
 - **4× Diodes** → Flyback protection (handles inductive kickback)  
 - **4× 10kΩ Resistors** → Pull-downs / pull-ups for MOSFET stability  
-- **2× 100Ω Resistors** → Gate current limiting  
+- **2× 10Ω Resistors** → Gate current limiting  
 - Breadboard, motor, Arduino/ATTiny for testing  
 
 ### Working Principle
