@@ -9,8 +9,6 @@ The **H-Bridge** circuit solves this by allowing current to flow in **both direc
 - Speed control (via PWM)  
 - Motor braking  
 
-⚠️ Important: Activating both switches on the same side causes a **short circuit** → always drive in diagonal pairs (1+4 or 2+3).  
-
 ---
 
 ## 🛠️ Our Custom H-Bridge Design
