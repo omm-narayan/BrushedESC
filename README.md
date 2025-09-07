@@ -1,4 +1,4 @@
-# BrushedESC Project – Custom H-Bridge ESC
+# Brushed H-Bridge ESC
 
 ## Why an H-Bridge?
 A brushed DC motor requires **bidirectional control** (forward & reverse).  
