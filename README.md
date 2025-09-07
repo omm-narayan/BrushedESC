@@ -53,7 +53,7 @@ Testing setup with Arduino/ATTiny connected to H-Bridge and motor.
 
 ---
 
-## 📌 Pinouts
+## Pinouts
 
 ### ATTiny (Single Channel ESC)
 - **OUT1** → Motor terminal 1  
