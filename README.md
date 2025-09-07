@@ -14,11 +14,11 @@ The project demonstrates motor control, PWM-to-analog conversion, and bidirectio
 *Shows the brushed motor connected to the ESC for testing.*
 
 ### 2. ATTiny PWM Circuit
-![ATTiny PWM to Analog Circuit](attiny_pwm_circuit.jpg)  
+![ATTiny PWM to Analog Circuit](attiny_pwm_circuit.jpeg)  
 *ATTiny microcontroller reading PWM input and outputting control signals to the H-bridge.*
 
 ### 3. H-Bridge MOSFET Setup
-![H-Bridge MOSFET on Breadboard](hbridge_breadboard.jpg)  
+![H-Bridge MOSFET on Breadboard](hbridge_breadboard.jpeg)  
 *H-bridge on breadboard using 2 N-channel + 2 P-channel MOSFETs for motor control.*
 
 ---
@@ -51,17 +51,6 @@ Duty cycle determines effective voltage → higher duty cycle = faster rotation.
 
 ### Types of H-Bridge Drivers
 Breadboard H-bridges are good for learning, but ICs like **L293D** or **DRV8873** are more efficient and protected.  
-
-[Video Reference: How H-Bridge Motor Drivers Work! (Robonyx)](https://youtu.be/6HUs4ERsVkE)
-
----
-
-## Suggested Images to Capture
-- `brushed_motor_esc.jpg` → Motor + ESC connections  
-- `attiny_pwm_circuit.jpg` → ATTiny PWM wiring  
-- `hbridge_breadboard.jpg` → H-bridge MOSFETs on breadboard  
-
----
 
 ## License
 MIT License – free to use and modify
