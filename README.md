@@ -65,10 +65,10 @@ Testing setup with Arduino/ATTiny connected to H-Bridge and motor.
 ### Arduino Nano (Dual Channel ESC)
 - **OUT1A (D3)** → Motor A terminal 1  
 - **OUT2A (D5)** → Motor A terminal 2  
-- **INA (D2)** → PWM input for Motor A  
+- **INA   (D2)** → PWM input for Motor A  
 - **OUT1B (D6)** → Motor B terminal 1  
 - **OUT2B (D9)** → Motor B terminal 2  
-- **INB (D4)** → PWM input for Motor B  
+- **INB   (D4)** → PWM input for Motor B  
 
 ---
 
