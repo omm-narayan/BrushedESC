@@ -49,7 +49,7 @@ Practical build of the H-Bridge with MOSFETs, resistors, and diodes.
 ## Brushed Motor + ESC Setup
 Testing setup with Arduino/ATTiny connected to H-Bridge and motor.  
 
-![Brushed Motor ESC Setup](brushed_motor_esc.jpg)
+![Brushed Motor ESC Setup](brushed_motor_esc.jpg)(hbridge_breadboard2.jpg)
 
 ---
 
