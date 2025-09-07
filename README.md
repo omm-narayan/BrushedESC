@@ -42,7 +42,7 @@ Bidirectional H-Bridge for brushed DC motor.
 ## Breadboard Implementation
 Practical build of the H-Bridge with MOSFETs, resistors, and diodes.  
 
-![H-Bridge Breadboard](hbridge_breadboard.jpg)
+![H-Bridge Breadboard](hbridge_breadboard.jpg && hbridge_breadboard2.jpg)
 
 ---
 
