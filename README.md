@@ -11,7 +11,7 @@ The **H-Bridge** circuit solves this by allowing current to flow in **both direc
 
 ---
 
-## 🛠️ Our Custom H-Bridge Design
+## Custom H-Bridge Design
 Instead of using a motor driver IC (like L293D or BTS7960), we built a **discrete H-Bridge** for learning and flexibility.  
 
 ### Components Used
@@ -32,7 +32,7 @@ Instead of using a motor driver IC (like L293D or BTS7960), we built a **discret
 
 ---
 
-## ⚡ Circuit Schematic
+##  Circuit Schematic
 Bidirectional H-Bridge for brushed DC motor.  
 
 ![Circuit Schematic](circuit_schematic.jpg)
